@@ -1,2 +1,30 @@
 # Hallo, XI PPLG 1! <a href="https://github.com/faishalfhid/pplg-1-github"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Media ajar untuk kelas PPLG 1, untuk pemberian materi dan tugas akan dilakukan pada GitHub ini nantinya.
+
+Selamat datang di repository GitHub **PPLG 1**! Repository ini digunakan sebagai media pembelajaran untuk kelas **XI PPLG 1**. Di sini, Anda akan menemukan materi, tutorial, dan tugas studi kasus yang dapat digunakan selama proses belajar mengajar.
+
+## 📂 Struktur Folder
+
+- **Materi**: Berisi materi-materi yang digunakan dalam pembelajaran.
+- **Tugas Studi Kasus**: Kumpulan soal dan studi kasus yang harus diselesaikan oleh siswa.
+- **Tutorial**: Berisi panduan dan tutorial terkait penggunaan GitHub, bahasa pemrograman Kotlin, dan konsep lainnya.
+
+## 📄 Daftar Isi
+
+1. **Modul Tutorial GitHub**: Panduan lengkap tentang cara menggunakan GitHub untuk pengumpulan tugas dan pengelolaan proyek.
+2. **Materi Pembelajaran**: Materi yang digunakan selama pembelajaran untuk membantu memahami topik tertentu.
+3. **Tugas Studi Kasus**: Kumpulan soal latihan dan studi kasus untuk diaplikasikan oleh siswa.
+4. **Tutorial Private Modifiers**: Tutorial tentang cara kerja `private modifiers` dalam bahasa pemrograman.
+
+## 📝 Cara Penggunaan
+
+1. **Unduh Materi**: Akses materi di dalam folder *Materi*.
+2. **Kirim Tugas**: Selesaikan studi kasus di dalam folder *Tugas Studi Kasus*, dan upload jawaban Anda sesuai dengan instruksi.
+3. **Pelajari Tutorial**: Ikuti langkah-langkah yang ada di folder *Tutorial* untuk mempelajari konsep yang diajarkan.
+
+## 📢 Catatan
+
+- Semua pengumpulan tugas dan pemberian materi akan dilakukan melalui repository ini.
+- Pastikan Anda telah mempelajari tutorial penggunaan GitHub yang ada di dalam file **Modul Tutorial GitHub.pdf** sebelum memulai.
+
+Terima kasih dan selamat belajar, **XI PPLG 1**! ✨
