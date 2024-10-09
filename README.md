@@ -6,14 +6,14 @@ Selamat datang di repository GitHub **PPLG 1**! Repository ini digunakan sebagai
 
 - **Materi**: Berisi materi-materi yang digunakan dalam pembelajaran.
 - **Tugas Studi Kasus**: Kumpulan soal dan studi kasus yang harus diselesaikan oleh siswa.
-- **Tutorial**: Berisi panduan dan tutorial terkait penggunaan GitHub, bahasa pemrograman Kotlin, dan konsep lainnya.
+- **Tutorial**: Berisi panduan dan tutorial terkait penggunaan visibility modifiers pada Kotlin.
 
 ## 📄 Daftar Isi
 
 1. **Modul Tutorial GitHub**: Panduan lengkap tentang cara menggunakan GitHub untuk pengumpulan tugas dan pengelolaan proyek.
 2. **Materi Pembelajaran**: Materi yang digunakan selama pembelajaran untuk membantu memahami topik tertentu.
 3. **Tugas Studi Kasus**: Kumpulan soal latihan dan studi kasus untuk diaplikasikan oleh siswa.
-4. **Tutorial Private Modifiers**: Tutorial tentang cara kerja `private modifiers` dalam bahasa pemrograman.
+4. **Tutorial Private Modifiers**: Tutorial tentang cara kerja `visibility modifiers` dalam bahasa pemrograman Kotlin.
 
 ## 📝 Cara Penggunaan
 
@@ -23,7 +23,7 @@ Selamat datang di repository GitHub **PPLG 1**! Repository ini digunakan sebagai
 
 ## 📢 Catatan
 
-- Semua pengumpulan tugas dan pemberian materi akan dilakukan melalui repository ini.
+- Pemberian materi akan dilakukan melalui repository ini.
 - Pastikan Anda telah mempelajari tutorial penggunaan GitHub yang ada di dalam file **Modul Tutorial GitHub.pdf** sebelum memulai.
 
 Terima kasih dan selamat belajar, **XI PPLG 1**! ✨
