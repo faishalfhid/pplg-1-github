@@ -18,8 +18,8 @@ Selamat datang di repository GitHub **PPLG 1**! Repository ini digunakan sebagai
 ## 📝 Cara Penggunaan
 
 1. **Unduh Materi**: Akses materi di dalam folder *Materi*.
-2. **Kirim Tugas**: Selesaikan studi kasus di dalam folder *Tugas Studi Kasus*, dan upload jawaban Anda sesuai dengan instruksi.
-3. **Pelajari Tutorial**: Ikuti langkah-langkah yang ada di folder *Tutorial* untuk mempelajari konsep yang diajarkan.
+2. **Pelajari Tutorial**: Ikuti langkah-langkah yang ada di folder *Tutorial* untuk mempelajari konsep yang diajarkan.
+3. **Kirim Tugas**: Selesaikan studi kasus di dalam folder *Tugas Studi Kasus*, dan upload jawaban Anda sesuai dengan instruksi.
 
 ## 📢 Catatan
 
