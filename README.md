@@ -19,7 +19,12 @@ Selamat datang di repository GitHub **PPLG 1**! Repository ini digunakan sebagai
 
 1. **Unduh Materi**: Akses materi di dalam folder *Materi*.
 2. **Pelajari Tutorial**: Ikuti langkah-langkah yang ada di folder *Tutorial* untuk mempelajari konsep yang diajarkan.
-3. **Kirim Tugas**: Selesaikan studi kasus di dalam folder *Tugas Studi Kasus*, dan upload jawaban Anda sesuai dengan instruksi.
+3. **Akses LKPD**: Setelah kalian mengikuti langkah-langkah tutorial, kalian bisa mengakses LKPD berikut untuk dikerjakan:
+```
+https://docs.google.com/document/d/1clUf99SKUhUxuVMqVJSOiV1nz-a4aLWQ0GiUnvpmhIY/copy
+```
+4. **Kirim Tugas**: Selesaikan studi kasus di dalam folder *Tugas Studi Kasus*, dan upload jawaban Anda sesuai dengan instruksi.
+5. **Share ChatGPT**: Salin dan bagikan sintaks yang anda telah gunakan di ChatGPT ke dalam fitur **Discussions**. Pengumpulan **PERINDIVIDU** yaa..
 
 ## 📢 Catatan
 
