@@ -23,7 +23,7 @@ Selamat datang di repository GitHub **PPLG 1**! Repository ini digunakan sebagai
 ```
 https://docs.google.com/document/d/1clUf99SKUhUxuVMqVJSOiV1nz-a4aLWQ0GiUnvpmhIY/copy
 ```
-4. **Kirim Tugas**: Selesaikan studi kasus di dalam folder *Tugas Studi Kasus*, dan upload jawaban Anda ke folder **Pengempulan Tugas** sesuai dengan folder kelompok Anda.
+4. **Kirim Tugas**: Selesaikan studi kasus di dalam folder *Tugas Studi Kasus*, dan upload jawaban Anda ke folder **Pengumpulan Tugas** sesuai dengan folder kelompok Anda.
 5. **Share ChatGPT**: Salin dan bagikan sintaks yang anda telah gunakan di ChatGPT ke dalam fitur **Discussions**. Pengumpulan **PERINDIVIDU** yaa..
 
 ## 📢 Catatan
