@@ -31,4 +31,17 @@ https://docs.google.com/document/d/1clUf99SKUhUxuVMqVJSOiV1nz-a4aLWQ0GiUnvpmhIY/
 - Pemberian materi akan dilakukan melalui repository ini.
 - Pastikan Anda telah mempelajari tutorial penggunaan GitHub yang ada di dalam file **Modul Tutorial GitHub.pdf** sebelum memulai.
 
+## 📝 Pembagian Studi Kasus
+
+1. BEBAS = Studi kasus 1
+2. Zombie Dora = Studi kasus 3
+3. Ladies = Studi kasus 1
+4. Kalay Mbaba = Studi kasus 4
+5. Serigala Bullshit Kejam Menakutkan = Studi kasus 5
+6. Air Galon Mineral = Studi kasus 4
+7. HOK = Studi kasus 2
+8. Pasukkan Songgoroto = Studi kasus 2
+9. Pramuka = Studi kasus 3
+
+
 Terima kasih dan selamat belajar, **XI PPLG 1**! ✨
